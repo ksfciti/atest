@@ -1,0 +1,1 @@
+echo "ala ma kota" > test1.txt
